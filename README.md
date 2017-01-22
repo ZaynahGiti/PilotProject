@@ -1,7 +1,6 @@
-# PilotProject - Angular2 with  Material  Design
+# simple todo app -  Angular2 with  Material  Design
 
 
-simple todo app 
 
 Development Stack:
 
