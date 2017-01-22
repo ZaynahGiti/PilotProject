@@ -1,4 +1,4 @@
-# PilotProject - Angular - Material  App
+# PilotProject - Angular2 with  Material  Design
 
 
 simple todo app 
