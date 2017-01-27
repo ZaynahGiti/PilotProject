@@ -1,13 +1,13 @@
-# simple CRUD app -  Angular2 with  Material  Design
+# simple CRUD app -  Angular with  Material  Design
 
 
 
-Development Stack:
+
 
 
 Back-End logic : NodeJS using RESTful API to handle CRUD operations for Employees Data
 --------------------------------------------------------------------------------
-Front-End :Angular2- with Material Design. 
+Front-End :Angular- with Material Design. 
 --------------------------------------------------------------------------------
 
  
