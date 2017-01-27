@@ -5,10 +5,10 @@
 
 
 
-Back-End logic : NodeJS using RESTful API to handle CRUD operations for Employees Data
---------------------------------------------------------------------------------
+Back-End  : NodeJS using Sails.js Rest APIs 
+--------------------------------------------
 Front-End :Angular- with Material Design. 
---------------------------------------------------------------------------------
+--------------------------------------------
 
  
 
