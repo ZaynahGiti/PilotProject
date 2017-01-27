@@ -11,16 +11,16 @@ module.exports = {
         required:true,
         minLength: 2
       },      
-      date_birth:{
+          date_birth:{
         type:"date",
         required:true
       
       },
-	  department:{
-        type:"string",
+          department:{
+        type:HTMLOptGroupElement,
         required:true
       },
-     year_experience:{
+          year_experience:{
         type:"number",
         required:true
      }
