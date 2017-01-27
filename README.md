@@ -17,16 +17,16 @@ Installing Angular Material
 
 using bower
 
-# To get the latest stable version.
+   To get the latest stable version.
 bower install angular-material
 
-# To get the most recent, last committed-to-master version use:
+   To get the most recent, last committed-to-master version use:
 bower install angular-material#master
 
-# To save the bower settings for future use:
+   To save the bower settings for future use:
 bower install angular-material --save
-
-# Later, you can use easily update with:
+  
+  Later, you can use easily update with:
 bower update
 
 
