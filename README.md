@@ -13,7 +13,7 @@ Front-End :Angular- with Material Design.
  
 
 
-Installing Angular Material
+Installing Angular Material ( Angular Material requires Angular 1.3.x or higher )
 
 using bower
 
