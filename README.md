@@ -11,6 +11,9 @@ Front-End :Angular- with Material Design.
 --------------------------------------------
 
  
+ ![sails.js](https://scotch.io/wp-content/uploads/2015/08/frontend-to-backend-sails-angular-1200x435.jpg)
+ 
+ 
 
 
 Installing Angular Material ( Angular Material requires Angular 1.3.x or higher )
