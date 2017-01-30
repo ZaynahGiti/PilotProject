@@ -5,13 +5,15 @@
 
 
 
-Back-End  : NodeJS using Sails.js Rest APIs 
+Back-End  : NodeJS   
 --------------------------------------------
+
+Rest APIs
+
 Front-End :Angular- with Material Design. 
 --------------------------------------------
 
  
- ![sails.js](https://scotch.io/wp-content/uploads/2015/08/frontend-to-backend-sails-angular-1200x435.jpg)
  
  
 
